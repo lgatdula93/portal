@@ -1,6 +1,7 @@
 
 form>div {
     margin:1em; /*Top Right Bottom Left*/
+    border-radius: 25px;
 }
 
 
